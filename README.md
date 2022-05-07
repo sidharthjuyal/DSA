@@ -1,4 +1,4 @@
 # DSA
-Data structures in c++
+Data structure and algorithms in c++
 ## topics covered
 1. Arrays
